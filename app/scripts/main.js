@@ -4,14 +4,11 @@
 var $begin_button = $('.begin');
 var text_original = $begin_button.text();
 
-var modal = $('<div class="modal"></div>');
-
-
-$begin_button.mousedown(function(event){
+$begin_button.on('click', function(event){
   event.preventDefault();
-  $begin_button.text('Hello');
-  $('body').append(modal);
-}).mouseup(function(event){
-  event.preventDefault();
-  $begin_button.text(text_original);
+  $('.modal_view').css("display", "block")
+});
+
+$('.modal_view').on('click', function(){
+  $(this).css("display", "none");
 });

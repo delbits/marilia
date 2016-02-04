@@ -1133,4 +1133,240 @@ To push the current branch and set the remote as upstream, use
 error: failed to push some refs to 'git@github.com:delbits/marilia.git'
 [1m[7m%[27m[1m[0m                                                                                                                  ]2;hashlabs@david: ~/developer/marilia]1;..loper/marilia[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [42m[34m [30m[30m[30m master[39m [30m?[39m[39m [49m[32m[39m 
 ╰─ [K[87C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 589 [39m[37m[39m[47m[30m 17:01:49 [39m[00m[1B[49m[110D[?1h=[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [42m[34m [30m[30m[30m master[39m [30m?[39m[39m [49m[32m[39m 
-╰─ [K[87C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 589 [39m[37m[39m[47m[30m 17:01:49 [39m[00m[1B[49m[110D
+╰─ [K[87C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 589 [39m[37m[39m[47m[30m 17:01:49 [39m[00m[1B[49m[110Dgit push origin master[22D[32mg[32mi[32mt[39m[18C              [4mp[24m [24m status[?1l>[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [42m[34m [30m[30m[30m master[39m [30m?[39m[39m [49m[32m[39m 
+╰─ [32mgit[39m status[K[77C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 589 [39m[37m[39m[47m[30m 17:02:06 [39m[00m[1B[49m[100D
+]2;git status]1;gitOn branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.babelrc[m
+	[31m.bowerrc[m
+	[31m.editorconfig[m
+	[31m.eslintrc[m
+	[31m.gitattributes[m
+	[31m.gitignore[m
+	[31m.yo-rc.json[m
+	[31mapp/[m
+	[31mbower.json[m
+	[31mgulpfile.babel.js[m
+	[31mpackage.json[m
+	[31mtest/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[1m[7m%[27m[1m[0m                                                                                                                  ]2;hashlabs@david: ~/developer/marilia]1;..loper/marilia[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [42m[34m [30m[30m[30m master[39m [30m?[39m[39m [49m[32m[39m 
+╰─ [K[89C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 590 [39m[37m[39m[47m[30m 17:02:06 [39m[00m[1B[49m[110D[?1h=[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [42m[34m [30m[30m[30m master[39m [30m?[39m[39m [49m[32m[39m 
+╰─ [K[89C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 590 [39m[37m[39m[47m[30m 17:02:07 [39m[00m[1B[49m[110D[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m [4ma[24m[24madd [4m.[24m[?1l>[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [42m[34m [30m[30m[30m master[39m [30m?[39m[39m [49m[32m[39m 
+╰─ [32mgit[39m add [4m.[24m[K[80C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 590 [39m[37m[39m[47m[30m 17:02:11 [39m[00m[1B[49m[101D
+]2;git add .]1;git[1m[7m%[27m[1m[0m                                                                                                                  ]2;hashlabs@david: ~/developer/marilia]1;..loper/marilia[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m✚[39m[39m [49m[33m[39m 
+╰─ [K[89C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 591 [39m[37m[39m[47m[30m 17:02:11 [39m[00m[1B[49m[110D[?1h=[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m✚[39m[39m [49m[33m[39m 
+╰─ [K[89C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 591 [39m[37m[39m[47m[30m 17:02:11 [39m[00m[1B[49m[110D[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m status[?1l>[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m✚[39m[39m [49m[33m[39m 
+╰─ [32mgit[39m status[K[79C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 591 [39m[37m[39m[47m[30m 17:02:15 [39m[00m[1B[49m[100D
+]2;git status]1;gitOn branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	[32mnew file:   .babelrc[m
+	[32mnew file:   .bowerrc[m
+	[32mnew file:   .editorconfig[m
+	[32mnew file:   .eslintrc[m
+	[32mnew file:   .gitattributes[m
+	[32mnew file:   .gitignore[m
+	[32mnew file:   .yo-rc.json[m
+	[32mnew file:   app/apple-touch-icon.png[m
+	[32mnew file:   app/favicon.ico[m
+	[32mnew file:   app/index.html[m
+	[32mnew file:   app/robots.txt[m
+	[32mnew file:   app/scripts/.main.js.swp[m
+	[32mnew file:   app/scripts/main.js[m
+	[32mnew file:   app/styles/_happy.scss[m
+	[32mnew file:   app/styles/main.scss[m
+	[32mnew file:   app/typescript[m
+	[32mnew file:   bower.json[m
+	[32mnew file:   gulpfile.babel.js[m
+	[32mnew file:   package.json[m
+	[32mnew file:   test/index.html[m
+	[32mnew file:   test/spec/test.js[m
+
+[1m[7m%[27m[1m[0m                                                                                                                  ]2;hashlabs@david: ~/developer/marilia]1;..loper/marilia[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m✚[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[89C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 592 [39m[37m[39m[47m[30m 17:02:15 [39m[00m[1B[49m[110D[?1h=[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m✚[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[89C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 592 [39m[37m[39m[47m[30m 17:02:15 [39m[00m[1B[49m[110D[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m commit inic    [33m"[39m[33m"[33m"[39m[33mi[33m"[39m[33mn[33m"[39m[33mi[33m"[39m[33mc[33m"[39m[33mi[33m"[39m[33ma[33m"[39m[33ml[33m"[39m[33m [33m"[39m[33m"[39m[39m [?1l>[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m✚[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [32mgit[39m commit [33m"inicial"[39m[K[69C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 592 [39m[37m[39m[47m[30m 17:02:26 [39m[00m[1B[49m[91D
+]2;git commit "inicial"]1;giterror: pathspec 'inicial' did not match any file(s) known to git.
+[1m[7m%[27m[1m[0m                                                                                                                  ]2;hashlabs@david: ~/developer/marilia]1;..loper/marilia[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m✚[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[87C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 593 [39m[37m[39m[47m[30m 17:02:26 [39m[00m[1B[49m[110D[?1h=[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m✚[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[87C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 593 [39m[37m[39m[47m[30m 17:02:26 [39m[00m[1B[49m[110Dgit commit "inicial"[20D[32mg[32mi[32mt[39m[8C[33m"[33mi[33mn[33mi[33mc[33mi[33ma[33ml[33m"[39m[1C[39m-[39m"[39mi[39mn[39mi[39mc[39mi[39ma[39ml"[9Dm"inicial"[9D [33m"[33mi[33mn[33mi[33mc[33mi[33ma[33ml[33m"[39m[9D[?1l>[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m✚[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [32mgit[39m commit -m [33m"inicial"[39m[K[64C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 593 [39m[37m[39m[47m[30m 17:02:33 [39m[00m[1B[49m[96D
+]2;git commit -m "inicial"]1;git[master (root-commit) bc11ab7] inicial
+ Committer: David <hashlabs@david.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 21 files changed, 1811 insertions(+)
+ create mode 100644 .babelrc
+ create mode 100644 .bowerrc
+ create mode 100644 .editorconfig
+ create mode 100644 .eslintrc
+ create mode 100644 .gitattributes
+ create mode 100644 .gitignore
+ create mode 100644 .yo-rc.json
+ create mode 100644 app/apple-touch-icon.png
+ create mode 100644 app/favicon.ico
+ create mode 100644 app/index.html
+ create mode 100644 app/robots.txt
+ create mode 100644 app/scripts/.main.js.swp
+ create mode 100644 app/scripts/main.js
+ create mode 100644 app/styles/_happy.scss
+ create mode 100644 app/styles/main.scss
+ create mode 100644 app/typescript
+ create mode 100644 bower.json
+ create mode 100644 gulpfile.babel.js
+ create mode 100644 package.json
+ create mode 100644 test/index.html
+ create mode 100644 test/spec/test.js
+[1m[7m%[27m[1m[0m                                                                                                                  ]2;hashlabs@david: ~/developer/marilia]1;..loper/marilia[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[89C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 594 [39m[37m[39m[47m[30m 17:02:33 [39m[00m[1B[49m[110D[?1h=[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[89C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 594 [39m[37m[39m[47m[30m 17:02:33 [39m[00m[1B[49m[110D[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m [4mp[24m[24mpush origin master[?1l>[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [32mgit[39m push origin master[K[67C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 594 [39m[37m[39m[47m[30m 17:02:38 [39m[00m[1B[49m[88D
+]2;git push origin master]1;gitThe authenticity of host 'github.com (192.30.252.129)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+Are you sure you want to continue connecting (yes/no)? y
+Please type 'yes' or 'no': yes
+Warning: Permanently added 'github.com,192.30.252.129' (RSA) to the list of known hosts.
+Counting objects: 28, done.
+Delta compression using up to 4 threads.
+Compressing objects:   4% (1/22)   Compressing objects:   9% (2/22)   Compressing objects:  13% (3/22)   Compressing objects:  18% (4/22)   Compressing objects:  22% (5/22)   Compressing objects:  27% (6/22)   Compressing objects:  31% (7/22)   Compressing objects:  36% (8/22)   Compressing objects:  40% (9/22)   Compressing objects:  45% (10/22)   Compressing objects:  50% (11/22)   Compressing objects:  54% (12/22)   Compressing objects:  59% (13/22)   Compressing objects:  63% (14/22)   Compressing objects:  68% (15/22)   Compressing objects:  72% (16/22)   Compressing objects:  77% (17/22)   Compressing objects:  81% (18/22)   Compressing objects:  86% (19/22)   Compressing objects:  90% (20/22)   Compressing objects:  95% (21/22)   Compressing objects: 100% (22/22)   Compressing objects: 100% (22/22), done.
+Writing objects:   3% (1/28)   Writing objects:   7% (2/28)   Writing objects:  10% (3/28)   Writing objects:  14% (4/28)   Writing objects:  17% (5/28)   Writing objects:  21% (6/28)   Writing objects:  25% (7/28)   Writing objects:  28% (8/28)   Writing objects:  32% (9/28)   Writing objects:  35% (10/28)   Writing objects:  39% (11/28)   Writing objects:  42% (12/28)   Writing objects:  46% (13/28)   Writing objects:  50% (14/28)   Writing objects:  53% (15/28)   Writing objects:  57% (16/28)   Writing objects:  60% (17/28)   Writing objects:  64% (18/28)   Writing objects:  67% (19/28)   Writing objects:  71% (20/28)   Writing objects:  75% (21/28)   Writing objects:  78% (22/28)   Writing objects:  82% (23/28)   Writing objects:  85% (24/28)   Writing objects:  89% (25/28)   Writing objects:  92% (26/28)   Writing objects:  96% (27/28)   Writing objects: 100% (28/28)   Writing objects: 100% (28/28), 25.21 KiB | 0 bytes/s, done.
+Total 28 (delta 1), reused 0 (delta 0)
+To git@github.com:delbits/marilia.git
+ * [new branch]      master -> master
+[1m[7m%[27m[1m[0m                                                                                                                  ]2;hashlabs@david: ~/developer/marilia]1;..loper/marilia[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[89C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 595 [39m[37m[39m[47m[30m 17:02:48 [39m[00m[1B[49m[110D[?1h=[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[89C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 595 [39m[37m[39m[47m[30m 17:02:48 [39m[00m[1B[49m[110D[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m status[?1l>[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [32mgit[39m status[K[79C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 595 [39m[37m[39m[47m[30m 17:02:56 [39m[00m[1B[49m[100D
+]2;git status]1;gitOn branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   app/typescript[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                                  ]2;hashlabs@david: ~/developer/marilia]1;..loper/marilia[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[89C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 596 [39m[37m[39m[47m[30m 17:02:56 [39m[00m[1B[49m[110D[?1h=[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[89C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 596 [39m[37m[39m[47m[30m 17:02:56 [39m[00m[1B[49m[110D[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m statsu[?1l>[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [32mgit[39m statsu[K[79C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 596 [39m[37m[39m[47m[30m 17:03:08 [39m[00m[1B[49m[100D
+]2;git statsu]1;gitgit: 'statsu' is not a git command. See 'git --help'.
+
+Did you mean this?
+	status
+[1m[7m%[27m[1m[0m                                                                                                                  ]2;hashlabs@david: ~/developer/marilia]1;..loper/marilia[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[87C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 597 [39m[37m[39m[47m[30m 17:03:08 [39m[00m[1B[49m[110D[?1h=[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[87C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 597 [39m[37m[39m[47m[30m 17:03:09 [39m[00m[1B[49m[110D[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m status[?1l>[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [32mgit[39m status[K[77C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 597 [39m[37m[39m[47m[30m 17:03:11 [39m[00m[1B[49m[100D
+]2;git status]1;gitOn branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   app/typescript[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                                  ]2;hashlabs@david: ~/developer/marilia]1;..loper/marilia[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[89C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 598 [39m[37m[39m[47m[30m 17:03:11 [39m[00m[1B[49m[110D[?1h=[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[89C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 598 [39m[37m[39m[47m[30m 17:03:11 [39m[00m[1B[49m[110D[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m [4ma[24m[24madd.[?1l>[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [32mgit[39m add.[K[81C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 598 [39m[37m[39m[47m[30m 17:03:15 [39m[00m[1B[49m[102D
+]2;git add.]1;gitgit: 'add.' is not a git command. See 'git --help'.
+
+Did you mean this?
+	add
+[1m[7m%[27m[1m[0m                                                                                                                  ]2;hashlabs@david: ~/developer/marilia]1;..loper/marilia[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[87C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 599 [39m[37m[39m[47m[30m 17:03:15 [39m[00m[1B[49m[110D[?1h=[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[87C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 599 [39m[37m[39m[47m[30m 17:03:15 [39m[00m[1B[49m[110D[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m [4ma[24m[24madd.[?1l>[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [32mgit[39m add.[K[79C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 599 [39m[37m[39m[47m[30m 17:03:18 [39m[00m[1B[49m[102D
+]2;git add.]1;gitgit: 'add.' is not a git command. See 'git --help'.
+
+Did you mean this?
+	add
+[1m[7m%[27m[1m[0m                                                                                                                  ]2;hashlabs@david: ~/developer/marilia]1;..loper/marilia[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[87C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 599 [39m[37m[39m[47m[30m 17:03:18 [39m[00m[1B[49m[110D[?1h=[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[87C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 599 [39m[37m[39m[47m[30m 17:03:18 [39m[00m[1B[49m[110D[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m commit -m [33m"[39m[33m"[33mi[39m[33mi[33mn[39m[33mn[33mi[39m[33mi[33mt[39m[33mt[33mi[39m[33mi[33ma[39m[33ma[33ml[39m[33ml[33m [39m[33m [33m2[39m[33m2[33m"[39m[?1l>[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [32mgit[39m commit -m [33m"initial 2"[39m[K[62C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 599 [39m[37m[39m[47m[30m 17:03:28 [39m[00m[1B[49m[85D
+]2;git commit -m "initial 2"]1;gitOn branch master
+Changes not staged for commit:
+	[31mmodified:   app/typescript[m
+
+no changes added to commit
+[1m[7m%[27m[1m[0m                                                                                                                  ]2;hashlabs@david: ~/developer/marilia]1;..loper/marilia[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[87C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 600 [39m[37m[39m[47m[30m 17:03:28 [39m[00m[1B[49m[110D[?1h=[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[87C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 600 [39m[37m[39m[47m[30m 17:03:28 [39m[00m[1B[49m[110D[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m [4mp[24m[24mpush origin master[?1l>[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [32mgit[39m push origin master[K[65C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 600 [39m[37m[39m[47m[30m 17:03:32 [39m[00m[1B[49m[88D
+]2;git push origin master]1;gitWarning: Permanently added the RSA host key for IP address '192.30.252.131' to the list of known hosts.
+Everything up-to-date
+[1m[7m%[27m[1m[0m                                                                                                                  ]2;hashlabs@david: ~/developer/marilia]1;..loper/marilia[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[89C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 601 [39m[37m[39m[47m[30m 17:03:34 [39m[00m[1B[49m[110D[?1h=[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[89C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 601 [39m[37m[39m[47m[30m 17:03:34 [39m[00m[1B[49m[110D[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m [4mp[24m[24mpull origin[?1l>[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [32mgit[39m pull origin[K[74C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 601 [39m[37m[39m[47m[30m 17:03:45 [39m[00m[1B[49m[95D
+]2;git pull origin]1;gitYou asked to pull from the remote 'origin', but did not specify
+a branch. Because this is not the default configured remote
+for your current branch, you must specify a branch on the command line.
+[1m[7m%[27m[1m[0m                                                                                                                  ]2;hashlabs@david: ~/developer/marilia]1;..loper/marilia[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[87C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 602 [39m[37m[39m[47m[30m 17:03:46 [39m[00m[1B[49m[110D[?1h=[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[87C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 602 [39m[37m[39m[47m[30m 17:03:46 [39m[00m[1B[49m[110Dgit pull origin[15D[32mg[32mi[32mt[39m[11C      origin master[?1l>[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [32mgit[39m pull origin master[K[65C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 602 [39m[37m[39m[47m[30m 17:03:55 [39m[00m[1B[49m[88D
+]2;git pull origin master]1;gitFrom github.com:delbits/marilia
+ * branch            master     -> FETCH_HEAD
+Already up-to-date.
+[1m[7m%[27m[1m[0m                                                                                                                  ]2;hashlabs@david: ~/developer/marilia]1;..loper/marilia[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[89C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 603 [39m[37m[39m[47m[30m 17:03:57 [39m[00m[1B[49m[110D[?1h=[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m[39m [49m[33m[39m 
+╰─ [K[89C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 603 [39m[37m[39m[47m[30m 17:03:57 [39m[00m[1B[49m[110D[32ml[39m[32ml[32ms[39m[?1l>[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m [30m?[39m[39m [49m[33m[39m 
+╰─ [32mls[39m[K[87C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 603 [39m[37m[39m[47m[30m 19:57:40 [39m[00m[1B[49m[108D
+]2;ls -G]1;ls[1m[36mapp[39;49m[0m               [1m[36mbower_components[39;49m[0m  gulpfile.babel.js package.json
+bower.json        [1m[36mdist[39;49m[0m              [1m[36mnode_modules[39;49m[0m      [1m[36mtest[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                  ]2;hashlabs@david: ~/developer/marilia]1;..loper/marilia[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m [30m?[39m[39m [49m[33m[39m 
+╰─ [K[89C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 604 [39m[37m[39m[47m[30m 19:57:40 [39m[00m[1B[49m[110D[?1h=[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m [30m?[39m[39m [49m[33m[39m 
+╰─ [K[89C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 604 [39m[37m[39m[47m[30m 19:57:41 [39m[00m[1B[49m[110D[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m status[?1l>[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m [30m?[39m[39m [49m[33m[39m 
+╰─ [32mgit[39m status[K[79C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 604 [39m[37m[39m[47m[30m 19:57:43 [39m[00m[1B[49m[100D
+]2;git status]1;gitOn branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   app/index.html[m
+	[31mmodified:   app/scripts/.main.js.swp[m
+	[31mmodified:   app/scripts/main.js[m
+	[31mmodified:   app/styles/_happy.scss[m
+	[31mmodified:   app/typescript[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31mapp/.index.html.swp[m
+	[31mapp/styles/._happy.scss.swp[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                                  ]2;hashlabs@david: ~/developer/marilia]1;..loper/marilia[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m [30m?[39m[39m [49m[33m[39m 
+╰─ [K[89C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 605 [39m[37m[39m[47m[30m 19:57:43 [39m[00m[1B[49m[110D[?1h=[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m [30m?[39m[39m [49m[33m[39m 
+╰─ [K[89C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 605 [39m[37m[39m[47m[30m 19:57:44 [39m[00m[1B[49m[110D[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m [4ma[24m[24madd.[?1l>[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m [30m?[39m[39m [49m[33m[39m 
+╰─ [32mgit[39m add.[K[81C[1A[39m[0m[49m[30m[39m[40m[38;5;46m [38;5;46m✓[39m [39m[38;5;244m[39m[48;5;244m[30m 605 [39m[37m[39m[47m[30m 19:57:51 [39m[00m[1B[49m[102D
+]2;git add.]1;gitgit: 'add.' is not a git command. See 'git --help'.
+
+Did you mean this?
+	add
+[1m[7m%[27m[1m[0m                                                                                                                  ]2;hashlabs@david: ~/developer/marilia]1;..loper/marilia[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m [30m?[39m[39m [49m[33m[39m 
+╰─ [K[87C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 606 [39m[37m[39m[47m[30m 19:57:52 [39m[00m[1B[49m[110D[?1h=[A[0m[27m[24m[J╭─[39m[0m[49m[44m [30m~/developer/marilia [43m[34m [30m[30m[30m master[39m [30m●[39m [30m?[39m[39m [49m[33m[39m 
+╰─ [K[87C[1A[39m[0m[49m[31m[39m[41m[38;5;226m 1 [38;5;226m↵[39m [39m[38;5;244m[39m[48;5;244m[30m 606 [39m[37m[39m[47m[30m 19:57:52 [39m[00m[1B[49m[110D[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[1m[31mg[1m[31mi[0m[39m[39m [0m[32mg[39m[0m[39m [39m 
